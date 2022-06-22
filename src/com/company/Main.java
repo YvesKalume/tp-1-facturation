@@ -5,6 +5,18 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Noms
+ * ______
+ *
+ * Yowa Mukala Ruth | MSI
+ * Kabembo Julie Julienne | MSI
+ * Katshaka Mukandayi Cathy | MSI
+ * Lutumba Kalombo Kevin | GL
+ * Kalume Nsenga Yves | GL
+ */
+
+
 public class Main {
 
     public static void main(String[] args) {
